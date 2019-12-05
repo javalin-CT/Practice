@@ -10,4 +10,6 @@ public abstract class practice {
     }
 
     public abstract void whatever4();
+
+
 }
