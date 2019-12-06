@@ -1,0 +1,23 @@
+
+*** These modified files were found in JOE when it aborted on Thu Dec  5 21:24:24 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/jcwcoding/workspace/Selenium/ClassWork/Practice/.git/COMMIT_EDITMSG
+
+*** File '/home/jcwcoding/workspace/Selenium/ClassWork/Practice/.git/COMMIT_EDITMSG'
+".gitignore update"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+.gitignore update
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
