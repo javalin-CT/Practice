@@ -1,13 +1,8 @@
 package com.Tests;
 
-public abstract class practice {
-    public static void whatever(){
+public class practice {
+    public static void main(String[] args) {
+        System.out.println("word up");
 
     }
-
-    public void whatever2(){
-
-    }
-
-    public abstract void whatever4();
 }
